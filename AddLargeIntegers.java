@@ -1,6 +1,9 @@
+/*
+Question: Write a program to add two large integers.
+*/
 import java.util.*; 
   
-class Q4{ 
+class AddLargeIntegers{ 
       
   
 static String sum(String s1, String s2)  
