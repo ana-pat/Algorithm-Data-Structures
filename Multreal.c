@@ -1,3 +1,6 @@
+/*
+Question: Write a program to multiply two large real numbers.
+*/
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
