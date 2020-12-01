@@ -1,3 +1,6 @@
+/*
+Strassen's algorithm for matrix multiplication.
+*/
 import java.util.Scanner;
 
 public class Strassen
