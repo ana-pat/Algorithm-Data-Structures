@@ -1,3 +1,7 @@
+/*
+Calculating the value of nth power of x using divide and conquer.
+*/
+
 #include<stdio.h>
 #include<math.h>
 
