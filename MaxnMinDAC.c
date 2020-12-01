@@ -1,3 +1,6 @@
+/*
+Maximun and minimum element in an array using divide and conquer.
+*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<limits.h>
