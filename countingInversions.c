@@ -1,3 +1,7 @@
+/*
+counting inversion problem using divide and conquer method.
+n is the number of items that are ranked
+*/
 #include<stdio.h>
 #include<stdlib.h>
 
