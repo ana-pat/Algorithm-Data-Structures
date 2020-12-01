@@ -1,6 +1,10 @@
+/*
+Question: Write a program to multiply two large integers.
+*/
+
 import java.util.*;
    
-class Multiplication{ 
+class MultLargeIntegers{ 
        
     static String multiply(String number1, String number2){ 
         
