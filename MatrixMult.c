@@ -1,3 +1,6 @@
+/*
+Matrix Multiplication using naive method.
+*/
 #include <stdio.h>
 
 void input(int n, int m[][n]){
