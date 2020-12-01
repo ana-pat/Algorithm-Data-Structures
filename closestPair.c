@@ -1,3 +1,8 @@
+/*
+closest pair problem using divide and conquer method.
+n is the number of points on a 2-dimensional plane.
+*/
+
 #include <stdio.h>
 #include <float.h>
 #include <stdlib.h>
