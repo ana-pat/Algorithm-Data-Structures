@@ -1,7 +1,11 @@
+/*
+Matrix Multiplication using divide and conquer.
+*/
+
 import java.util.*;
 
 
-public class MatrixMultiplication{
+public class MatrixMultDAC{
     
     public static int[][] add(int[][] A, int[][] B){
         int n = A.length;
