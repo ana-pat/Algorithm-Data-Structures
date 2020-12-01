@@ -1,9 +1,11 @@
-
+/*
+Karatsuba Algorithm for matrix multiplication.
+*/
 
 import java.util.*;
 
 
-public class Main{
+public class KaratsubaAlgo{
 
 
 
