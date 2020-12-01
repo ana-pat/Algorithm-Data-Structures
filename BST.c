@@ -1,3 +1,10 @@
+/*
+Question:Given a positive integer n where n = 2^k −1, k ∈ Z+. Considering n an user input, create the
+binary search tree (BST) from these n integers, such that,
+• The height of BST is minimum;
+• The height of BST is maximum.
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -85,13 +92,6 @@ void inOrder(Tree tree) {
     printf("%d ", tree->key);
     inOrder(tree->right);
 }
-
-
-
-
-
-
-
 
 int main(){
 Tree min = NULL;
