@@ -1,3 +1,9 @@
+/*
+Question: Given a positive integer n, find the maximum and the minimum heights of AVL trees with n nodes considering
+• The height of an AVL tree with a single node is 0.
+• The height of an AVL tree with a single node is 1.
+*/
+
 #include<stdio.h>
 #include<math.h>
 
