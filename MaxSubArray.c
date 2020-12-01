@@ -1,3 +1,8 @@
+/*
+maximum subarray problem using divide and conquer method.
+n is the length of the array.
+*/
+
 #include <stdio.h>
 #include <limits.h>
 
